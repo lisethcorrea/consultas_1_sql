@@ -91,3 +91,12 @@ o se puede utilizar el operador `OR`
 `DELETE FROM Cliente WHERE identificacion > 170`
 
 ![Tabla Cliente](delete1.png "Tabla Cliente")
+ 
+ ### Actualización No. 1
+
+1. para actualizar la ciudad de nacimiento de cristian vanegas, cuya identificación es 114.
+
+`UPDATE usuario SET ciudad_nac = 'pereira' WHERE identificación=114`
+![Tabla Cliente](actualizacion1.png "Tabla Cliente")
+![Tabla Cliente](update1_1.png "Tabla Cliente")
+
