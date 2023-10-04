@@ -4,7 +4,7 @@
 ## Base de datos: Ventas
 ## Tabla: Cliente
 
-![Tabla Cliente](tabla_Cliente.png "Tabla Cliente")
+![TablaCliente](tablaCliente.png "TablaCliente")
 
 ## Instruccion SELECT
 - permite seleccionar datos de una tabla
